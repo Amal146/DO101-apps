@@ -12,7 +12,21 @@
     "nodejs",
     "hello-world"
   ],
-  "license": "ISC",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    },
+    {
+      "type": "ISC",
+      "url": "https://opensource.org/licenses/ISC"
+    },
+    {
+      "type": "BSD",
+      "url": "https://opensource.org/licenses/BSD-3-Clause"
+    }
+  ],
+  
   "dependencies": {
     "express": "^4.17.1"
   }
